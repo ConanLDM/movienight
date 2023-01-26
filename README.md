@@ -1,1 +1,1 @@
-#Ruby on Rails app with ambition to include movie aggregators
+Ruby on Rails app with ambition to include movie aggregators
